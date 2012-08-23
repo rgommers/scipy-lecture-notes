@@ -1,3 +1,5 @@
+.. _mathematical_optimization_chapter:
+
 ==========================
 Mathematical optimization
 ==========================

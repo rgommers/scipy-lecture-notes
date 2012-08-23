@@ -314,6 +314,8 @@ finding. ::
 
     >>> from scipy import optimize
 
+Note that there's a full chapter on ``scipy.optimize`` in the "Advanced topics"
+part of these lectures, see :ref:`_mathematical_optimization_chapter`.
 
 **Finding the minimum of a scalar function**
 
